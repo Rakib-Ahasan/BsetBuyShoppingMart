@@ -1,0 +1,15 @@
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\bin\Debug\ShoppingMartApplicationInWinForm.exe.config
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\bin\Debug\ShoppingMartApplicationInWinForm.exe
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\bin\Debug\ShoppingMartApplicationInWinForm.pdb
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.csprojAssemblyReference.cache
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.Form1.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.Properties.Resources.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.csproj.GenerateResource.cache
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.exe
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.pdb
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.Login.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.SignUp.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.AddItemForm.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.EditAddItemForm.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.ViewDataForm.resources
+D:\Basic C#\PROJECT\ShoppingMartApplicationInWinForm\obj\Debug\ShoppingMartApplicationInWinForm.DetailsAndSearchForm.resources
